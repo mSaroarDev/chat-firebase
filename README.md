@@ -11,7 +11,7 @@ This is a simple React project built with **Vite**, styled using **Tailwind CSS*
 git clone https://github.com/your-username/your-project.git
 ```
 
-### 1. Open the project and run the command in root
+### 2. Open the project and run the command in root
 ```bash
 npm run dev
 ```
