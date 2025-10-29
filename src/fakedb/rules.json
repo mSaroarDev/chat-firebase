@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "chats": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "messages": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "users": {
+      ".read": "auth != null",
+      ".write": true
+    }
+  }
+}

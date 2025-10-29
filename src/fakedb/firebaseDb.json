@@ -1,0 +1,56 @@
+{
+  "chats": {
+    "1": {
+      "id": "1",
+      "participants": ["user1", "user2"],
+      "updatedAt": "2024-06-01T10:00:00Z"
+    },
+    "2": {
+      "id": "2",
+      "participants": ["user3", "user4"],
+      "updatedAt": "2024-06-02T12:30:00Z"
+    },
+    "3": {
+      "id": "3",
+      "participants": ["user1", "user3"],
+      "updatedAt": "2024-06-03T14:45:00Z"
+    }
+  },
+  "messages": {
+    "m1": {
+      "chatId": "1",
+      "content": "Hello, how are you?",
+      "id": "m1",
+      "sender": "user1",
+      "timestamp": "2024-06-01T10:05:00Z"
+    },
+    "m2": {
+      "chatId": "1",
+      "content": "I'm good, thanks! How about you?",
+      "id": "m2",
+      "sender": "user2",
+      "timestamp": "2024-06-01T10:06:00Z"
+    },
+    "m3": {
+      "chatId": "2",
+      "content": "Are we still on for the meeting tomorrow?",
+      "id": "m3",
+      "sender": "user3",
+      "timestamp": "2024-06-02T12:35:00Z"
+    }
+  },
+  "users": {
+    "FwvkiErn7MbPNqSFnRSlQoZ0l322": {
+      "createdAt": "2025-10-28T04:05:26.809Z",
+      "displayName": "Sed laborum Et exer",
+      "email": "pyxim@mailinator.com",
+      "uid": "FwvkiErn7MbPNqSFnRSlQoZ0l322"
+    },
+    "P3vvDyd9dLQnGlMzelo05iJuBgx1": {
+      "createdAt": "2025-10-28T04:07:06.303Z",
+      "displayName": "Quia impedit placea",
+      "email": "qigipykut@mailinator.com",
+      "uid": "P3vvDyd9dLQnGlMzelo05iJuBgx1"
+    }
+  }
+}
